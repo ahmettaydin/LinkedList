@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1609846936 source:c:\users\ahmet\desktop\linkedlist\linkedlist\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
+1609846936 source:c:\users\ahmet\desktop\prolab1\proje3\proje 3 teslim\linkedlist\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
+1651100790 source:c:\users\ahmet\desktop\linkedlist\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
+1651100790 source:c:\users\ahmet\documents\github\linkedlist\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
